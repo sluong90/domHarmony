@@ -81,9 +81,13 @@ nameBox[2].innerHTML = 'Venus';
 
  //div with class name of otherAge
  otherAgebox[2].innerHTML = '40';
- 
+
  //div with class name of status
+ statusBox[2].innerHTML = 'Single';
+
  //div with class anem of Motto
+ var mottoBox = document.getElementsByClassName('motto');
+ mottoBox[2].innerHTML = 'Guardian of Love';
 
 
 
