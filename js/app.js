@@ -58,8 +58,13 @@ var nameBox = document.getElementsByClassName('firstName'); //need to use this m
 nameBox[0].innerHTML = 'Wendy';
 
 //11. In the div id matches section, target the first div element with the class name of otherAge and change Age to 48.
+var otherAgebox = document.getElementsByClassName('otherAge');
+otherAgebox[0].innerHTML = 48;
 
 //12. In the div id matches section, target the first div element with the class name of status and change Status to Single Mother.
+var statusBox = document.getElementsByClassName('status');
+statusBox[0].innerHTML = 'Single Mother';
+
 
 //13. In the div id matches section, target the second div element with the class name of firstName and change Name to Peko Chan.
 
