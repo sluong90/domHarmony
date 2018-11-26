@@ -67,8 +67,11 @@ statusBox[0].innerHTML = 'Single Mother';
 
 
 //13. In the div id matches section, target the second div element with the class name of firstName and change Name to Peko Chan.
+nameBox[1].innerHTML = 'Peko Chan';
+
 
 //14. In the div id matches section, target the second div element with the class name of otherAge and change Age to 68.
+otherAgebox[1].innerHTML = 68;
 
  //Final Boss Create your own profile into the page:
  //change image to match your profile
