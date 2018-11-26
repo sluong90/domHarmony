@@ -75,8 +75,13 @@ otherAgebox[1].innerHTML = 68;
 
  //Final Boss Create your own profile into the page:
  //change image to match your profile
+ 
  //div with class name of firstName
+nameBox[2].innerHTML = 'Venus';
+
  //div with class name of otherAge
+ otherAgebox[2].innerHTML = '40';
+ 
  //div with class name of status
  //div with class anem of Motto
 
